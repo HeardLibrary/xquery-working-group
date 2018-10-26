@@ -1,6 +1,6 @@
 ---
 layout: page
-title: XQuery WG Schedule
+title: XQuery Working Group Schedule
 permalink: /schedule
 ---
 
