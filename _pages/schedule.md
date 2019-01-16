@@ -11,14 +11,15 @@ permalink: /schedule
 
 | Date | Location | Topic | Leader | Session Notes |
 |------|-------|-------|-------|-------|
-| 9/7/2018 | 344 Buttrick| eXtensible Markup Language (XML) | Michelle Taylor |  |
-| 9/14/2018 | 344 Buttrick| Text Encoding Initiative (P5) | Michelle Taylor |  |
-| 9/21/2018 | 344 Buttrick| Critical Editions with TEI | Michelle Taylor |  |
-| 9/28/2018 | 344 Buttrick| Validating TEI with Schemas | Michelle Taylor |  |
-| 10/5/2018 | 344 Buttrick| Music Encoding Initiative (MEI) | Perry Roland |  |
-| 10/12/2018 | 344 Buttrick| Introductory XPath for TEI | Cliff Anderson | [Notes](https://docs.google.com/presentation/d/1_0-jewncut7oJT4NLuGNcVZprqVeYbuoEo3ejov77yI/edit?usp=sharing) |
-| 10/19/2018 | --No Class-- | --Fall Break-- |  |  |
-| 10/26/2018 | 344 Buttrick| Introductory XSLT for TEI | Cliff Anderson | [Notes](https://docs.google.com/presentation/d/1J0BA9UJfXKpjlDVp46PVTwe97YijhkevOj6W7UTjPNQ/edit?usp=sharing) |
-| 11/2/2018 | 344 Buttrick| Introductory XQuery for TEI | Cliff Anderson | [Notes](https://docs.google.com/presentation/d/1eW6woR7Rwn1QgDv8VNZtm84mJ6-_QXNqO269S-mSvTM/edit?usp=sharing) |
-| 11/9/2018 | 344 Buttrick| Introduction to BaseX | Steve Baskauf | [Notes](https://github.com/baskaufs/msc/blob/master/ssda-example/README.md) |
-| 11/16/2018 | 344 Buttrick| Introduction to eXist | Cliff Anderson | [Notes](https://docs.google.com/presentation/d/1JIsVc8cZESqFVz30NyRB0h_uziok_T-Y1KsqF-DMrFU/edit?usp=sharing)  |
+| 1/18/2019 | 344 Buttrick| Review of XML and TEI P5 | Michelle Taylor |  |
+| 1/25/2019 | 344 Buttrick| Introduction to ODD | Michelle Taylor |  |
+| 2/01/2019 | 344 Buttrick| Composing Your Own ODD | Clifford Anderson |  |
+| 2/08/2019 | 344 Buttrick| Introduction to TEI Publisher | Clifford Anderson |  |
+| 2/15/2019 | 344 Buttrick| Creating Basic Page Templates | Clifford Anderson |  |
+| 2/22/2019 | 344 Buttrick| Creating Specialized Templaetes | Michelle Taylor | |
+| 3/01/2019 | --No Class--| --Spring Break-- |  |  |
+| 3/08/2019 | --No Class--| --Spring Break-- |  |  |
+| 3/15/2019 | 344 Buttrick| Advanced TEI Customization | Clifford Anderson | |
+| 3/22/2019 | 344 Buttrick| Output Media Setttings | Michelle Taylor | |
+| 3/29/2019 | 344 Buttrick| Deploying to the Web | Clifford Anderson| |
+| 4/05/2018 | 344 Buttrick| Project Showcase | TEI Working Grouo | |
