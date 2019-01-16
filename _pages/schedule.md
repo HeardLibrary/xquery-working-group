@@ -22,4 +22,4 @@ permalink: /schedule
 | 3/15/2019 | 344 Buttrick| Advanced TEI Customization | Clifford Anderson | |
 | 3/22/2019 | 344 Buttrick| Output Media Setttings | Michelle Taylor | |
 | 3/29/2019 | 344 Buttrick| Deploying to the Web | Clifford Anderson| |
-| 4/05/2018 | 344 Buttrick| Project Showcase | TEI Working Grouo | |
+| 4/05/2019 | 344 Buttrick| Project Showcase | TEI Working Group | |
