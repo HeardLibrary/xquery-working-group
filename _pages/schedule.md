@@ -7,7 +7,7 @@ permalink: /schedule
 
 ## Computational Analysis of TEI
 
-### Fall 2018 Schedule
+### Spring 2019 Schedule
 
 | Date | Location | Topic | Leader | Session Notes |
 |------|-------|-------|-------|-------|
