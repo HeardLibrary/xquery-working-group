@@ -5,7 +5,7 @@ permalink: /schedule
 ---
 
 
-## Computational Analysis of TEI
+## Text Mining at Scale
 
 ### Spring 2019 Schedule
 
@@ -15,13 +15,13 @@ permalink: /schedule
 |------|-------|-------|-------|-------|
 | 9/6/2019 | 344 Buttrick| What is Text Mining? | Clifford Anderson |  |
 | 9/13/2019 | 344 Buttrick| Introduction to XML and [BaseX](http://basex.org/) | Clifford Anderson |  |
-| 9/20/2019 | 344 Buttrick| Simple Querying with XPath | Clifford Anderson |  |
-| 9/27/2019 | 344 Buttrick| Complex Querying with XQuery | Clifford Anderson |  |
-| 10/04/2019 | 344 Buttrick| Advanced Querying with XQuery Full Text | Clifford Anderson |  |
+| 9/20/2019 | 344 Buttrick| Simple Querying with [XPath](https://www.w3.org/TR/2017/REC-xpath-31-20170321/) | Clifford Anderson |  |
+| 9/27/2019 | 344 Buttrick| Complex Querying with [XQuery](https://www.w3.org/TR/xquery-31/) | Clifford Anderson |  |
+| 10/04/2019 | 344 Buttrick| Advanced Querying with [XQuery and XPath Full Text](https://www.w3.org/TR/xpath-full-text-10/) | Clifford Anderson |  |
 | 10/11/2019 | 344 Buttrick| Natural Language Processing with XQuery | Clifford Anderson | |
 | 10/18/2019 | 344 Buttrick| Review | Sarah Swanz |  |
 | 10/25/2019 | -- No Class -- | -- Fall Break -- |  |  |
-| 11/1/2019 | 344 Buttrick| JSON, JSONL, and JSONiq | Clifford Anderson | |
+| 11/1/2019 | 344 Buttrick| [JSON](https://www.json.org/), [JSONL](http://jsonlines.org/), and [JSONiq](http://jsoniq.org/) | Clifford Anderson | |
 | 11/8/2019 | 344 Buttrick| Introduction to [Apache Spark](https://spark.apache.org/) | Sarah Swanz |  |
 | 11/15/2019 | -- No Class -- | -- Independent Study -- |  |  |
 | 11/22/2019 | 344 Buttrick| [RumbleDB](http://rumbledb.org/) on Apache Spark | Clifford Anderson| |
