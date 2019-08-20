@@ -7,7 +7,7 @@ permalink: /schedule
 
 ## Text Mining at Scale
 
-### Spring 2019 Schedule
+### Fall 2019 Schedule
 
 *All meetings take place at 2 p.m. on Fridays in Buttrick Hall 344*
 
@@ -23,7 +23,7 @@ permalink: /schedule
 | 10/25/2019 | *No Class* | *Fall Break* |  |  |
 | 11/1/2019 | 344 Buttrick| [JSON](https://www.json.org/), [JSONL](http://jsonlines.org/), and [JSONiq](http://jsoniq.org/) | Clifford Anderson | |
 | 11/8/2019 | 344 Buttrick| Introduction to [Apache Spark](https://spark.apache.org/) | Sarah Swanz |  |
-| 11/15/2019 | -- No Class -- | *Work on Projects* |  |  |
+| 11/15/2019 | *No Class* | *Work on Projects* |  |  |
 | 11/22/2019 | 344 Buttrick| [RumbleDB](http://rumbledb.org/) on Apache Spark | Clifford Anderson| |
-| 11/29/2019 | -- No Class -- | *Thanksgiving Holiday* |  |  |
+| 11/29/2019 | *No Class* | *Thanksgiving Holiday* |  |  |
 | 12/06/2019 | 344 Buttrick| Project Showcase | Participants | |
