@@ -9,14 +9,14 @@ permalink: /schedule
 
 ### Fall 2019 Schedule
 
-*All meetings take place at 2 p.m. on Fridays in Buttrick Hall 344*
+*All meetings take place at 2 p.m. on Fridays in Buttrick Hall 344* unless otherwise noted.
 
 | Date | Location | Topic | Leader | Session Notes |
 |------|-------|-------|-------|-------|
 | 9/6/2019 | 344 Buttrick| What is Text Mining? | Sarah Swanz |  |
 | 9/13/2019 | 344 Buttrick| Introduction to XML and [BaseX](http://basex.org/) | Clifford Anderson |  |
 | 9/20/2019 | 344 Buttrick| Simple Querying with [XPath](https://www.w3.org/TR/2017/REC-xpath-31-20170321/) | Clifford Anderson |  |
-| 9/27/2019 | 344 Buttrick| Complex Querying with [XQuery](https://www.w3.org/TR/xquery-31/) | Clifford Anderson |  |
+| 9/27/2019 |  212 Buttrick| Complex Querying with [XQuery](https://www.w3.org/TR/xquery-31/) | Clifford Anderson |  |
 | 10/04/2019 | 344 Buttrick| Advanced Querying with [XQuery and XPath Full Text](https://www.w3.org/TR/xpath-full-text-10/) | Clifford Anderson |  |
 | 10/11/2019 | 344 Buttrick| Natural Language Processing with XQuery | Clifford Anderson | |
 | 10/18/2019 | 344 Buttrick| Review | Sarah Swanz |  |
