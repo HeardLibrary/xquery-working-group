@@ -16,7 +16,7 @@ permalink: /schedule
 | 9/6/2019 | 344 Buttrick| What is Text Mining? | Sarah Swanz | [PDF](https://heardlibrary.github.io/digital-scholarship/script/xquery/text-mining/text-mining-at-scale-session-1.pdf) |
 | 9/13/2019 | 344 Buttrick| Introduction to XML and [BaseX](http://basex.org/) | Clifford Anderson | [PDF](https://heardlibrary.github.io/digital-scholarship/script/xquery/text-mining/text-mining-at-scale-session-2.pdf) |
 | 9/20/2019 | 344 Buttrick| Simple Querying with [XPath](https://www.w3.org/TR/2017/REC-xpath-31-20170321/) | Clifford Anderson | [PDF](https://heardlibrary.github.io/digital-scholarship/script/xquery/text-mining/text-mining-at-scale-session-3.pdf)  |
-| 9/27/2019 |  344 Buttrick| Collating Data with [XQuery](https://www.w3.org/TR/xquery-31/) | Clifford Anderson |  |
+| 9/27/2019 |  344 Buttrick| Collating Data with [XQuery](https://www.w3.org/TR/xquery-31/) | Clifford Anderson | [PDF](https://heardlibrary.github.io/digital-scholarship/script/xquery/text-mining/text-mining-at-scale-session-4.pdf) |
 | 10/04/2019 | 212 Buttrick| Advanced Querying with [XQuery and XPath Full Text](https://www.w3.org/TR/xpath-full-text-10/) | Clifford Anderson |  |
 | 10/11/2019 | 344 Buttrick| Natural Language Processing with XQuery | Clifford Anderson | |
 | 10/18/2019 | 344 Buttrick| Review | Sarah Swanz |  |
