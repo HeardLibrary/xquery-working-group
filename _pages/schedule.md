@@ -18,12 +18,12 @@ permalink: /schedule
 | 9/20/2019 | 344 Buttrick| Simple Querying with [XPath](https://www.w3.org/TR/2017/REC-xpath-31-20170321/) | Clifford Anderson | [PDF](https://heardlibrary.github.io/digital-scholarship/script/xquery/text-mining/text-mining-at-scale-session-3.pdf)  |
 | 9/27/2019 |  344 Buttrick| Collating Data with [XQuery](https://www.w3.org/TR/xquery-31/) | Clifford Anderson | [PDF](https://heardlibrary.github.io/digital-scholarship/script/xquery/text-mining/text-mining-at-scale-session-4.pdf) |
 | 10/04/2019 | 212 Buttrick| Advanced Querying with [XQuery and XPath Full Text](https://www.w3.org/TR/xpath-full-text-10/) | Clifford Anderson | [PDF](https://github.com/HeardLibrary/digital-scholarship/blob/gh-pages/script/xquery/text-mining/text-mining-at-scale-session-5.pdf) ||
-| 10/11/2019 | 344 Buttrick| Natural Language Processing with XQuery | Clifford Anderson | |
+| 10/11/2019 | 344 Buttrick| Natural Language Processing with XQuery | Clifford Anderson | [Notes](https://gist.github.com/CliffordAnderson/e1b1db2819df586a0b38a42903288012)|
 | 10/18/2019 | 344 Buttrick| Review | Sarah Swanz |  |
 | 10/25/2019 | *No Class* | *Fall Break* |  |  |
-| 11/1/2019 | 344 Buttrick| [JSON](https://www.json.org/), [JSONL](http://jsonlines.org/), and [JSONiq](http://jsoniq.org/) | Clifford Anderson | |
+| 11/1/2019 | 344 Buttrick| [JSON](https://www.json.org/), [JSONL](http://jsonlines.org/), and [JSONiq](http://jsoniq.org/) | Clifford Anderson | [Notes](https://gist.github.com/CliffordAnderson/aa9755000afae05f38da20731eaff89e) |
 | 11/8/2019 | 344 Buttrick| Introduction to [Apache Spark](https://spark.apache.org/) | Sarah Swanz |  |
-| 11/15/2019 | *No Class* | *Work on Projects* |  |  |
+| 11/15/2019 | *No Class* | Preparing to use AWS [Elastic Map Reduce](https://aws.amazon.com/emr/) | Sarah Swanz |  |
 | 11/22/2019 | 344 Buttrick| [RumbleDB](http://rumbledb.org/) on Apache Spark | Clifford Anderson| |
 | 11/29/2019 | *No Class* | *Thanksgiving Holiday* |  |  |
 | 12/06/2019 | 344 Buttrick| Project Showcase | Participants | |
