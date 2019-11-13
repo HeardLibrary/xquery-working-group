@@ -23,7 +23,7 @@ permalink: /schedule
 | 10/25/2019 | *No Class* | *Fall Break* |  |  |
 | 11/1/2019 | 344 Buttrick| [JSON](https://www.json.org/), [JSONL](http://jsonlines.org/), and [JSONiq](http://jsoniq.org/) | Clifford Anderson | [Notes](https://gist.github.com/CliffordAnderson/aa9755000afae05f38da20731eaff89e) |
 | 11/8/2019 | 344 Buttrick| Introduction to [Apache Spark](https://spark.apache.org/) | Sarah Swanz |  |
-| 11/15/2019 | *No Class* | Preparing to use AWS [Elastic Map Reduce](https://aws.amazon.com/emr/) | Sarah Swanz |  [PDF](https://github.com/HeardLibrary/digital-scholarship/blob/gh-pages/script/xquery/text-mining/TextMining_ApacheSpark.pdf) |
+| 11/15/2019 | 344 Buttrick| Preparing to use AWS [Elastic Map Reduce](https://aws.amazon.com/emr/) | Sarah Swanz |  [PDF](https://github.com/HeardLibrary/digital-scholarship/blob/gh-pages/script/xquery/text-mining/TextMining_ApacheSpark.pdf) |
 | 11/22/2019 | 344 Buttrick| [RumbleDB](http://rumbledb.org/) on Apache Spark | Clifford Anderson| |
 | 11/29/2019 | *No Class* | *Thanksgiving Holiday* |  |  |
 | 12/06/2019 | 344 Buttrick| Project Showcase | Participants | |
