@@ -25,5 +25,3 @@ permalink: /schedule
 | 11/8/2019 | 344 Buttrick| Introduction to [Apache Spark](https://spark.apache.org/) | Sarah Swanz |  |
 | 11/15/2019 | 344 Buttrick| Preparing to use AWS [Elastic Map Reduce](https://aws.amazon.com/emr/) | Sarah Swanz |  [PDF](https://github.com/HeardLibrary/digital-scholarship/blob/gh-pages/script/xquery/text-mining/TextMining_ApacheSpark.pdf) |
 | 11/22/2019 | 344 Buttrick| [RumbleDB](http://rumbledb.org/) on Apache Spark | Clifford Anderson| |
-| 11/29/2019 | *No Class* | *Thanksgiving Holiday* |  |  |
-| 12/06/2019 | 344 Buttrick| Project Showcase | Participants | |
